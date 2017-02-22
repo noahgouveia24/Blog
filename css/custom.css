@@ -1,6 +1,21 @@
-p { font-family: 'Josefin Sans', sans-serif; }
+p { font-family: 'Josefin Sans', sans-serif;
+	font-size: 24px; }
 
-h4{ font-family: 'Josefin Sans', serif; }
+h4{ font-family: 'Josefin Sans', serif;
+    font-size: 30px }
+
+h1{ font-family: 'Josefin Sans', serif;
+    font-size: 50px;
+    align: center;
+     }
+
+h3{ font-family: 'Josefin Sans', serif;
+    font-size: 27px }
+
+h2{ font-family: 'Josefin Sans', serif;
+    font-size: 35px;
+    padding-top: .3em; }
+
 
 .button-group .button { font-family: 'Josefin Sans', serif;
 
@@ -14,14 +29,17 @@ img{ width: 100%; }
 	          margin: auto;
 
 	          }
+footer { padding-top: 4em; }
 
 footer ul { list-style: none; 
       }
 
 footer li { display: inline-block; }
 
-.logo { width: 70%;
+.logo { width: 60%;
 		height: 70%; 
 		padding: 0;
 		margin: auto;}
+
+
 
