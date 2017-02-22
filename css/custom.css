@@ -1,20 +1,31 @@
 p { font-family: 'Josefin Sans', sans-serif;
 	font-size: 24px; }
 
-h4{ font-family: 'Josefin Sans', serif;
-    font-size: 30px }
+h4{ font-family: 'Pacifico', cursive;
+    font-size: 30px
+     }
 
-h1{ font-family: 'Josefin Sans', serif;
-    font-size: 50px;
-    align: center;
+h1{ font-family: 'Pacifico', serif;
+    font-size: 60px;
+    ;
      }
 
 h3{ font-family: 'Josefin Sans', serif;
-    font-size: 27px }
+    font-size: 27px;
+    text-align: center;}
 
 h2{ font-family: 'Josefin Sans', serif;
     font-size: 35px;
     padding-top: .3em; }
+ 
+h5{ font-family: 'Pacifico' , cursive;
+    font-size: 60px;
+    text-align: center; }
+
+h6{ font-family: 'Pacifico', serif;
+    font-size: 45px;
+    ;
+     }
 
 
 .button-group .button { font-family: 'Josefin Sans', serif;
@@ -22,6 +33,11 @@ h2{ font-family: 'Josefin Sans', serif;
 }
 
 img{ width: 100%; }
+
+ul li { font-family: 'Josefin Sans', serif;
+}
+
+
 
 
 .content img{
@@ -43,3 +59,4 @@ footer li { display: inline-block; }
 
 
 
+.center { text-align: center; }
