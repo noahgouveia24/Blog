@@ -52,10 +52,9 @@ footer ul { list-style: none;
 
 footer li { display: inline-block; }
 
-.logo { width: 60%;
-		height: 70%; 
+.logo { width: 60%; 
 		padding: 0;
-		margin: auto;}
+		margin: 0 auto 3em}
 
 
 
